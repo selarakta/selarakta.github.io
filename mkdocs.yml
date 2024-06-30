@@ -2,3 +2,7 @@ site_name: Selarakta
 site_url: https://selarakta.me
 theme:
   name: material
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
