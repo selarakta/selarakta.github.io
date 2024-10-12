@@ -1,2 +1,14 @@
 [project]
 name = selarakta.github.io
+
+[servers.ghpages]
+enabled = yes
+name = Github pages on repo
+target = ghpages://selarakta/selarakta.github.io
+default = yes
+
+[servers.ghpages-https]
+enabled = yes
+name = Github pages on repo
+target = ghpages+https://selarakta/selarakta.github.io
+default = not
