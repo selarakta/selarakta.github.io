@@ -1,1 +1,0 @@
-# selarakta.github.io
